@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ComputerScience-Club/static/css/main.0f55d48d.css",
+    "main.js": "/ComputerScience-Club/static/js/main.cde62c61.js",
+    "index.html": "/ComputerScience-Club/index.html",
+    "main.0f55d48d.css.map": "/ComputerScience-Club/static/css/main.0f55d48d.css.map",
+    "main.cde62c61.js.map": "/ComputerScience-Club/static/js/main.cde62c61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f55d48d.css",
+    "static/js/main.cde62c61.js"
+  ]
+}
